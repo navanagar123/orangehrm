@@ -45,10 +45,10 @@ public class BaseClass
     }
 
 
-//    @AfterClass
-//    public void closTheBrowser() {
-//        driver.quit();
-//    }
+    @AfterClass
+    public void closTheBrowser() {
+       // driver.quit();
+    }
 
 
 
